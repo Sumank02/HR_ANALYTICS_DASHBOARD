@@ -21,4 +21,5 @@ The HR Analytics Dashboard project aims to provide insights into various aspects
 - Interpret visualizations to identify key insights in workforce analytics.
 
 **Customization**
+
 You may adapt or expand the dashboard to include additional HR metrics or integrate new data sources. Ensure that each visualization is updated to reflect any changes in data structure.
