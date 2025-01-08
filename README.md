@@ -1,6 +1,7 @@
 # HR-ANALYTICS-DASHBOARD
 
 **Project Overview**
+
 The HR Analytics Dashboard project aims to provide insights into various aspects of human resource management by visualizing key metrics and trends in employee data. This dashboard helps HR professionals make data-driven decisions by monitoring KPIs such as employee performance, turnover rates, absenteeism, diversity, and workforce demographics.
 
 **Requirements**
